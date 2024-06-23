@@ -1,6 +1,6 @@
-# Inventory Management System
+# Inventory Management Framework
 
-This is an Inventory Management System built in the form of a GUI desktop application developed in ***Java*** using ***MySQL*** as its database.
+This is an Inventory Management Framework built in the form of a GUI desktop application developed in ***Java*** using ***MySQL*** as its database.
 The GUI was designed using **Swing** and the database connectivity was managed using **JDBC API**.
 
 
